@@ -1,8 +1,7 @@
-site_name: 张宇的
+site_name: 张宇的网络日志
 theme:
   name: material
   language: zh
-  logo: assets/logo.png
   features:
     - navigation.instant
     - navigation.tracking
@@ -15,5 +14,3 @@ theme:
     - search:
         lang: zh
         separator: '[\s\u200b\-]'
-    - blog:
-        post_url_date_format: yyyy-MM-dd
