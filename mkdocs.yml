@@ -1,6 +1,8 @@
 site_name: 张宇的网络日志
 theme:
   name: material
+  palette:
+    scheme: slate
   language: zh
   features:
     - navigation.instant
